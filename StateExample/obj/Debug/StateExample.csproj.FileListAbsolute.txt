@@ -1,0 +1,8 @@
+C:\Users\eliah\source\repos\StateExample\StateExample\bin\Debug\StateExample.exe.config
+C:\Users\eliah\source\repos\StateExample\StateExample\bin\Debug\StateExample.exe
+C:\Users\eliah\source\repos\StateExample\StateExample\bin\Debug\StateExample.pdb
+C:\Users\eliah\source\repos\StateExample\StateExample\obj\Debug\StateExample.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\StateExample\StateExample\obj\Debug\StateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\StateExample\StateExample\obj\Debug\StateExample.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\StateExample\StateExample\obj\Debug\StateExample.exe
+C:\Users\eliah\source\repos\StateExample\StateExample\obj\Debug\StateExample.pdb
